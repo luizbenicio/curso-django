@@ -1,2 +1,2 @@
 # curso-django
-Repositório do Curso de Django
+Curso de Django realizado com a Python Pro
